@@ -71,7 +71,7 @@ select {
   display: block;
   width: 100%;
   padding: 8px;
-  color: #8e979f;
+  color: #9b9f8e;
   outline: none;
 }
 
@@ -100,7 +100,7 @@ select {
   padding: 20px;
   margin: 0;
   background: black;
-  background-image: url("Static/images/nasa.jpg");
+  background-image: url("/Static/images/nasa.jpg");
   background-attachment: fixed;
   background-position: bottom center;
   background-size: cover;
